@@ -42,7 +42,7 @@ Thumbs.db
 *.tsbuildinfo
 
 #firebase configuration
-/firebaseConfig.ts
+firebaseConfig.ts
 
 #serviceAccountKey
-/justorder-c7c23-firebase-adminsdk-4dong-1a5facd84f.json
+justorder-c7c23-firebase-adminsdk-4dong-1a5facd84f.json
